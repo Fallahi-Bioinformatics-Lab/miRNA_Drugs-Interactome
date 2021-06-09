@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Melanoma data analysis
 
-You can use the [editor on GitHub](https://github.com/Fallahi-Bioinformatics-Lab/Melanoma-Cancer-marker-prediction/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here I am adapting several codes in to one notebook to do gene expression analysis- I mainly use Jupyter Notebook but also include some extra codes as stated throughout the codes. The pipline has been divided into seperate steps clrealy marked as step I , II , etc. I have alos included one notebook for the merged pipline (mrged_notebook) that could be easily implemented and used for the entire analysis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
