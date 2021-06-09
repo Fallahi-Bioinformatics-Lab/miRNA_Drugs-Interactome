@@ -1,10 +1,6 @@
-## Melanoma data analysis
+## Melanoma data analysis:
 
 Here, I am adapting several codes in to one notebook to do gene expression analysis- I mainly use Jupyter Notebook but also include some extra codes as stated throughout the codes. The pipline has been divided into seperate steps clrealy marked as step I , II , etc. I have alos included one notebook for the merged pipline (mrged_notebook) that could be easily implemented and used for the entire analysis.
 
-
-
-
-### Support or Contact
 
 contact us:
