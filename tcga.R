@@ -4,6 +4,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 
 BiocManager::install("TCGAbiolinks")
 
+# you can replace the project id with differnt cancer naem, eg. TCGA-BRCA for breast cancer
 library("TCGAbiolinks") 
 query_TCGA = GDCquery(
   project = "TCGA-SKCM",
