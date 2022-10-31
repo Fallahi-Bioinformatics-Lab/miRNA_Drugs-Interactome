@@ -1,9 +1,9 @@
-## Melanoma data analysis:
+## LncRNA in Breast Cancer
 
-This work is inspired by this [website](https://github.com/ShahriyariLab/surgical-procedures-for-breast-cancer).
 
-Here, I am adapting several codes in to one notebook to do gene expression analysis- I mainly use Jupyter Notebook but also include some extra codes as stated throughout the codes. The pipline has been divided into seperate steps clrealy marked as step I , II , etc. I have alos included one notebook for the merged pipline (mrged_notebook) that could be easily implemented and used for the entire analysis.
+
+Here, we are using freely available datasets to first identify DE lncRNAs in breast cancer cell ines. Then we will look at different regulatory roles for this lncRNAs. More info coming soon. 
 
 ![images](banner.jpg)
 
-You can use the tcga.R file to download necessary data for your prohject. 
+ 
