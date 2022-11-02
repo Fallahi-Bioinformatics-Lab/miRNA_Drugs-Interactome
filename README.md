@@ -1,6 +1,3 @@
-# 
- #
-  #
 ## OncoFactors SA
 
 
